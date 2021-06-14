@@ -1,0 +1,2 @@
+ALTER TABLE stripe_connect 
+	DROP CONSTRAINT stripe_connect_appotek_user_id_key;

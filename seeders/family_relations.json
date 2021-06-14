@@ -1,0 +1,178 @@
+{
+"family_relations": [
+	{
+		"id" : 1,
+		"name" : "father",
+		"associations" : "{3,4,30,31}"
+	},
+	{
+		"id" : 2,
+		"name" : "mother",
+		"associations" : "{3,4,30,31}"
+	},
+	{
+		"id" : 3,
+		"name" : "son",
+		"associations" : "{1,2,28,29}"
+	},
+	{
+		"id" : 4,
+		"name" : "daughter",
+		"associations" : "{1,2,28,29}"
+	},
+	{
+		"id" : 5,
+		"name" : "brother",
+		"associations" : "{5,6,32,33,34,35}"
+	},
+	{
+		"id" : 6,
+		"name" : "sister",
+		"associations" : "{5,6,32,33,34,35}"
+	},
+	{
+		"id" : 7,
+		"name" : "husband",
+		"associations" : "{8}"
+	},
+	{
+		"id" : 8,
+		"name" : "wife",
+		"associations" : "{7}"
+	},
+	{
+		"id" : 9,
+		"name" : "grandfather",
+		"associations" : "{11,12}"
+	},
+	{
+		"id" : 10,
+		"name" : "grandmother",
+		"associations" : "{11,12}"
+	},
+	{
+		"id" : 11,
+		"name" : "grandson",
+		"associations" : "{9,10}"
+	},
+	{
+		"id" : 12,
+		"name" : "granddaughter",
+		"associations" : "{9,10}"
+	},
+	{
+		"id" : 13,
+		"name" : "uncle",
+		"associations" : "{16,17}"
+	},
+	{
+		"id" : 14,
+		"name" : "aunt",
+		"associations" : "{16,17}"
+	},
+	{
+		"id" : 15,
+		"name" : "cousin",
+		"associations" : "{15}"
+	},
+	{
+		"id" : 16,
+		"name" : "nephew",
+		"associations" : "{13,14}"
+	},
+	{
+		"id" : 17,
+		"name" : "niece",
+		"associations" : "{13,14}"
+	},
+	{
+		"id" : 18,
+		"name" : "great grandfather\t",
+		"associations" : "{20,21}"
+	},
+	{
+		"id" : 19,
+		"name" : "great grandmother",
+		"associations" : "{20,21}"
+	},
+	{
+		"id" : 20,
+		"name" : "great grandson",
+		"associations" : "{18,19}"
+	},
+	{
+		"id" : 21,
+		"name" : "great granddaughter",
+		"associations" : "{18,19}"
+	},
+	{
+		"id" : 22,
+		"name" : "father-in-law",
+		"associations" : "{24,25}"
+	},
+	{
+		"id" : 23,
+		"name" : "mother-in-law",
+		"associations" : "{24,25}"
+	},
+	{
+		"id" : 24,
+		"name" : "son-in-law",
+		"associations" : "{22,23}"
+	},
+	{
+		"id" : 25,
+		"name" : "daughter-in-law",
+		"associations" : "{22,23}"
+	},
+	{
+		"id" : 26,
+		"name" : "brother-in-law",
+		"associations" : "{26,27}"
+	},
+	{
+		"id" : 27,
+		"name" : "sister-in-law",
+		"associations" : "{26,27}"
+	},
+	{
+		"id" : 28,
+		"name" : "stepfather",
+		"associations" : "{3,4,30,31}"
+	},
+	{
+		"id" : 29,
+		"name" : "stepmother",
+		"associations" : "{3,4,30,31}"
+	},
+	{
+		"id" : 30,
+		"name" : "stepson",
+		"associations" : "{1,2,28,29}"
+	},
+	{
+		"id" : 31,
+		"name" : "stepdaughter",
+		"associations" : "{1,2,28,29}"
+	},
+	{
+		"id" : 32,
+		"name" : "stepsister",
+		"associations" : "{5,6,32,33,34,35}"
+	},
+	{
+		"id" : 33,
+		"name" : "stepbrother",
+		"associations" : "{5,6,32,33,34,35}"
+	},
+	{
+		"id" : 34,
+		"name" : "half-brother",
+		"associations" : "{5,6,32,33,34,35}"
+	},
+	{
+		"id" : 35,
+		"name" : "half-sister",
+		"associations" : "{5,6,32,33,34,35}"
+	}
+]}

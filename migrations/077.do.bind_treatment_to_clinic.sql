@@ -1,0 +1,3 @@
+
+ALTER TABLE treatment_records
+  ADD COLUMN clinic_id UUID REFERENCES clinics (id) ON DELETE SET NULL ON UPDATE CASCADE;

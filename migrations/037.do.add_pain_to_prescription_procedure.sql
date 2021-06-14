@@ -1,0 +1,1 @@
+ alter TABLE prescription_procedures add pain_relief INT;

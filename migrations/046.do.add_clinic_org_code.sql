@@ -1,0 +1,1 @@
+ALTER TABLE clinics ADD COLUMN org_code VARCHAR(28) UNIQUE;

@@ -1,0 +1,1 @@
+ALTER TABLE drug_records ALTER COLUMN producer_info DROP DEFAULT; 

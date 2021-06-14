@@ -1,0 +1,1 @@
+DROP FUNCTION public.sharing_prescription_procedure_check_permissions(uuid,int[]);

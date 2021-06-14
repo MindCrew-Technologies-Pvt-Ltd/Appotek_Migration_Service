@@ -1,0 +1,16 @@
+ALTER TABLE waiting_room_schedules
+	DROP COLUMN clinic_consultation,
+	DROP COLUMN clinic_consultation_duration,
+    DROP COLUMN clinic_consultation_price,
+    DROP COLUMN clinic_consultation_payment_mode,
+    DROP COLUMN clinic_consultation_clinic_approved,
+    DROP COLUMN home_visit,
+	DROP COLUMN home_visit_duration,
+    DROP COLUMN home_visit_price,
+    DROP COLUMN home_visit_payment_mode,
+    DROP COLUMN home_visit_clinic_approved,
+    DROP COLUMN online_consultation,
+	DROP COLUMN online_consultation_duration,
+    DROP COLUMN online_consultation_price,
+    DROP COLUMN online_consultation_payment_mode,
+    DROP COLUMN online_consultation_clinic_approved

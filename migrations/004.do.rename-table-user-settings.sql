@@ -1,0 +1,2 @@
+ALTER TABLE user_reminder_settings
+RENAME TO user_settings;

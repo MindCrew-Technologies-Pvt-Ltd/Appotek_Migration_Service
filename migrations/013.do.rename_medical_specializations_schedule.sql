@@ -1,0 +1,1 @@
+ALTER TABLE medical_specializations_schedule RENAME TO clinic_position_schedule

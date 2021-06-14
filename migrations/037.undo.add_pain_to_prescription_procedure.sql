@@ -1,0 +1,1 @@
+ alter table prescription_procedures drop column pain_relief;

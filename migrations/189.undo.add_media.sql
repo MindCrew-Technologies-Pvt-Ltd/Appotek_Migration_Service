@@ -1,0 +1,5 @@
+DROP TABLE clinic_media_access_group_to_folder;
+DROP TABLE clinic_media_access_group_participant;
+DROP TABLE clinic_media_access_group;
+DROP TABLE clinic_media_record;
+DROP TABLE clinic_media_folder;

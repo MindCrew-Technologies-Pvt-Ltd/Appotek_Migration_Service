@@ -1,0 +1,10 @@
+ALTER TABLE clinic_media_access_group
+    drop column avatar_id;
+ALTER TABLE clinic_media_access_group
+    drop column type;
+ALTER TABLE clinic_media_folder
+    drop column access_type;
+ALTER TABLE clinic_media_folder
+    drop column access_group_id;
+ALTER TABLE clinic_media_folder
+    drop column allowed_user_ids;

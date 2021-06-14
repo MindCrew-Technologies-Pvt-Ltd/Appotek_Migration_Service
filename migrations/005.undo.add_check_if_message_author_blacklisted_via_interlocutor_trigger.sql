@@ -1,0 +1,2 @@
+DROP TRIGGER check_if_message_author_blacklisted_via_interlocutor_before_insert ON chat_message;
+DROP FUNCTION check_if_message_author_blacklisted_via_interlocutor;

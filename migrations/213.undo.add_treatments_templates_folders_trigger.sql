@@ -1,0 +1,4 @@
+DROP TRIGGER after_treatment_templates_folder_moved_trigger
+    ON treatment_templates_folders;
+
+DROP FUNCTION after_treatment_templates_folder_moved;

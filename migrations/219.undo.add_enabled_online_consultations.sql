@@ -1,0 +1,1 @@
+ALTER TABLE clinics DROP COLUMN allow_online_consultation;

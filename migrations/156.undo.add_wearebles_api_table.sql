@@ -1,0 +1,12 @@
+DROP TABLE IF EXISTS "user_fitbit_tokens";
+DROP TABLE IF EXISTS "user_strava_tokens";
+DROP TABLE IF EXISTS "user_withings_tokens";
+DROP TABLE IF EXISTS "wearebles_fitbit_heart_rate";
+DROP SEQUENCE IF EXISTS wearebles_fitbit_heart_rate_id_seq;
+DROP TABLE IF EXISTS "wearebles_fitbit_sleep";
+DROP TABLE IF EXISTS "wearebles_strava_activities";
+DROP SEQUENCE IF EXISTS wearebles_strava_activities_id_seq;
+DROP TABLE IF EXISTS "wearebles_withings_hearrate_list";
+DROP SEQUENCE IF EXISTS wearebles_withings_hearrate_list_id_seq;
+DROP TABLE IF EXISTS "wearebles_withings_sleep";
+DROP SEQUENCE IF EXISTS wearebles_withings_slep_id_seq;

@@ -1,0 +1,1 @@
+DROP FUNCTION public.sharing_get_allowed_tasks(uuid);

@@ -1,0 +1,1 @@
+ALTER TABLE clinic_button_list DROP COLUMN has_domain;

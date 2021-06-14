@@ -1,0 +1,8 @@
+ALTER TABLE invites ADD COLUMN address_id INT REFERENCES addresses(id) ON DELETE CASCADE ON UPDATE CASCADE;
+ALTER TABLE treatment_records ALTER COLUMN title TYPE VARCHAR;
+
+CREATE TABLE symptoms_to_telephones(
+  id SERIAL PRIMARY KEY,
+  telephone VARCHAR NOT NULL,
+  symptom VARCHAR NOT NULL
+);

@@ -1,0 +1,1 @@
+alter table clinics drop column fhir_base_url

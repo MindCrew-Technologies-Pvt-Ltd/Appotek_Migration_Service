@@ -1,0 +1,10 @@
+DROP TABLE license_tarif_plan_to_user;
+DROP FUNCTION set_license_actice_false();
+DROP TABLE license_property_values;   
+DROP FUNCTION check_license_types();
+DROP TABLE license_properties;  
+DROP TYPE property_value_type;
+DROP TABLE license_properties_type;   
+DROP TABLE license_tarif_plans;
+DROP FUNCTION delete_most_popular_licenses();
+DROP TYPE enum_license_type;

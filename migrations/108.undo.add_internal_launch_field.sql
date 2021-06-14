@@ -1,0 +1,1 @@
+alter table countries drop column internal_launch;

@@ -1,0 +1,3 @@
+ALTER TABLE event
+    ALTER COLUMN owner_id DROP NOT NULL,
+    ALTER COLUMN owner_id SET DEFAULT NULL;

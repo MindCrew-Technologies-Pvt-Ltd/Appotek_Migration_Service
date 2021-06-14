@@ -1,0 +1,12 @@
+ALTER TABLE invites
+    drop column country_id_type;
+ALTER TABLE invites
+    drop column id_number;
+ALTER TABLE invites
+    drop column sub_role_id;
+ALTER TABLE invites
+    drop column department_id;
+ALTER TABLE invites
+    drop column waiting_room_id;
+ALTER TABLE invites
+    drop column avatar_id;

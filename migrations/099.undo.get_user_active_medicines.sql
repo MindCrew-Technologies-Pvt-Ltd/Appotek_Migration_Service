@@ -1,0 +1,1 @@
+ drop function get_user_active_medicines(uuid);

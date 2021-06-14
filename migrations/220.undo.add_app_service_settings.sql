@@ -1,0 +1,1 @@
+DROP TABLE app_service_settings;
