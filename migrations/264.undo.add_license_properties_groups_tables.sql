@@ -1,0 +1,1 @@
+drop table license_properties_groups;

@@ -1,0 +1,1 @@
+DROP TYPE property_value_type;

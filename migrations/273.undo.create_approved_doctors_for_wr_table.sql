@@ -1,0 +1,1 @@
+DROP table approved_position_for_wr;
